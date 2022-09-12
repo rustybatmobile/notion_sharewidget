@@ -1,0 +1,9 @@
+.widget_container {
+    width: 512px;
+    /* height: 262px; */
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}

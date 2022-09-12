@@ -1,0 +1,41 @@
+.oslash_image {
+    height: 40px;
+    width: 40px;
+    background-color: red;
+}
+
+.status_list_section {
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.access_dropdown {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.main_content {
+    flex-grow: 2;
+    padding-left: 10px;
+}
+.h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #111827;
+}
+
+.h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #6B7280;
+}
+

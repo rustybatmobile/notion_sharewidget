@@ -1,0 +1,21 @@
+.app_container {
+    margin: 2.5rem;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: #111827;
+    border: none;
+}
+
+.share_btn > * {
+    padding: 4px;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+}
